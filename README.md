@@ -5,7 +5,7 @@
 # Description
 
 This is a movie information webpage created by React.
-Movie information is shown in order of popularity using API of [The Movie Database](www.themoviedb.org).
+Movie information is shown in order of popularity using API of [The Movie Database](https://www.themoviedb.org/)
 
 When signing up and logging in, the verification function was based on the react library [yup](https://www.npmjs.com/package/yup) and [Formik](https://jaredpalmer.com/formik/), and ui design was used [Ant Design](https://ant.design/).
 
